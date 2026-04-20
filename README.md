@@ -1,2 +1,2 @@
-# https-AI Tutour.lovable.app-
+# https-AI Tutour.com
 ai tutour personal learning assistent
